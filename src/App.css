@@ -1,0 +1,25 @@
+@import "tailwindcss/base";
+
+@import "tailwindcss/components";
+
+@import "tailwindcss/utilities";
+
+
+.App {
+    
+    margin:0;
+    
+    font-family:sans-serif ;
+    background: rgb(205, 198, 198);
+
+}
+.lol{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 80px;
+    font-size: 100px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    ;
+}
+
